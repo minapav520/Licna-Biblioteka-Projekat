@@ -21,3 +21,4 @@ Web aplikacija za upravljanje ličnom bibliotekom, razvijena kao projekat u okvi
 4. Pokrenite server: `php artisan serve`.
 
 ## 📸 Izgled projekta
+![Prikaz aplikacije](izgledStranice.png)
