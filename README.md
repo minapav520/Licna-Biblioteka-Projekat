@@ -5,7 +5,7 @@ Web aplikacija za upravljanje ličnom bibliotekom, razvijena kao projekat u okvi
 ## 🚀 Tehnologije
 * **PHP & Laravel** - Backend logika i upravljanje rutama
 * **Blade (Laravel View Engine)** - Kreiranje dinamičkih templejta
-* **MySQL** - Upravljanje bazom podataka (knjige, autori, žanrovi)
+* **SQLite** - Upravljanje bazom podataka (knjige, autori, žanrovi)
 * **Bootstrap 5 & CSS3** - Stil
 
 ## ✨ Funkcionalnosti
