@@ -14,11 +14,5 @@ Web aplikacija za upravljanje ličnom bibliotekom, razvijena kao projekat u okvi
 * **Pretraga:** Brzo pronalaženje knjiga u bazi.
 * **Validacija:** Siguran unos podataka putem Laravel formi.
 
-## 🛠️ Instalacija (za lokalno pokretanje)
-1. Klonirajte repozitorijum.
-2. Pokrenite `composer install`.
-3. Pokrenite migracije: `php artisan migrate`.
-4. Pokrenite server: `php artisan serve`.
-
 ## 📸 Izgled projekta
 ![Prikaz aplikacije](izgledStranice.png)
