@@ -14,5 +14,5 @@ A web application for managing a personal book collection, developed as a course
 * **Search Functionality:** Quickly find specific books within the collection.
 * **Form Validation:** Secure data entry using Laravel's built-in validation.
 
-## 📸 Screenshots
+## 📸 Application Preview
 ![Prikaz aplikacije](izgledStranice.png)
